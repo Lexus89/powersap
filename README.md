@@ -25,7 +25,7 @@ All credit goes to:
 
 * Dependencies: 
 
-.Net connector "NCo" - https://websmp201.sap-ag.de/public/connectors
+.Net connector "NCo" - https://websmp201.sap-ag.de/public/connectors (x64 versions already included)
 Powershell 3.0
 .NET framework 4
 
